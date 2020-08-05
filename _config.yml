@@ -13,8 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     Steven_Probie
+douban_username:    steven_qiu
 github_username:    stevenqiu
+weibo_username:     Steven_Probie
 twitter_username:   qiu_steven
 #facebook_username:  huxpro
 
@@ -77,7 +78,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "We all live in our own hell"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Lobby_Boy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
